@@ -1,16 +1,17 @@
-# googlemap_mark
+# GoogleMaps - Geolocation, Markers and cool effects
 
-A new Flutter project.
+A simple app to get you started with google maps, firestore, markers and animation effects.
 
-## Getting Started
+You would need a google maps api key and a firebase account to make this repo work.
 
-This project is a starting point for a Flutter application.
+Bringing google maps into your flutter apps - https://youtu.be/Egp_S8JN-ec
 
-A few resources to get you started if this is your first Flutter project:
+Geolocation and plotting markers - https://youtu.be/Hg8CT3ysFjY
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot_20181212-203534](https://user-images.githubusercontent.com/8137504/49878510-c1abd180-fe4d-11e8-8266-ca0277f943f2.png)
+
+![screenshot_20181212-203546](https://user-images.githubusercontent.com/8137504/49878526-cff9ed80-fe4d-11e8-923b-4ac387863b4f.png)
+
+![screenshot_20181212-203607](https://user-images.githubusercontent.com/8137504/49878540-d6886500-fe4d-11e8-84b3-f402e0df7d87.png)
